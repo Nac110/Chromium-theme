@@ -2,4 +2,4 @@
 Themes I currently use on Brave browser
 
 ## Dark orange
-![image](https://user-images.githubusercontent.com/18323845/110771313-a1e8fb00-825a-11eb-87b8-a51731cd1846.png)
+![image](https://user-images.githubusercontent.com/18323845/110771514-deb4f200-825a-11eb-99ef-49b4479f289f.png)
